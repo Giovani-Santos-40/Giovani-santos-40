@@ -20,7 +20,7 @@ Com foco em sistemas personalizados, sites institucionais e automação de proce
 
 ## 📂 Projeto em Destaque
 
-- [Portfólio Pessoal](https://github.com/giovani-santos-40/portfolio) - Meu site pessoal com apresentação profissional e projetos.
+- [Portfólio Pessoal](https://giovani-santos-40.github.io/site-sistema/) - Meu site pessoal com apresentação profissional e projetos.
 
 ---
 
